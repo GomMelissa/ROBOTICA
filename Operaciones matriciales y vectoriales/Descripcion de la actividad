@@ -1,0 +1,11 @@
+Este archivo contiene una serie de ejercicios prácticos sobre operaciones con vectores y matrices, desarrollados en Python. El objetivo es aplicar los fundamentos del álgebra lineal utilizando programación, reforzando conceptos básicos y su implementación computacional.
+
+Se incluyen ejemplos de:
+
+- Operaciones básicas con vectores (suma, resta, producto escalar y vectorial).
+
+- Operaciones con matrices (suma, resta, multiplicación).
+
+- Cálculo de determinantes, inversas y proyección de matrices, etc.
+
+Estos ejercicios fueron diseñados como material de práctica y apoyo en el aprendizaje de álgebra lineal computacional.
